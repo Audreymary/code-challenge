@@ -26,9 +26,9 @@ Open you terminal and navigate to the project directory. This is relative to whe
 Inside the project directory which you cloned i.e "./code-challenge" you will find three separate files these are:
 
 ```
-1. speed.js
-2. salary.js
-3. grader.js
+1. speed-detector.js
+2. net-salary-calculator.js
+3. student-grade.js
 
 ```
 Open the files using any code editor of preference and copy it to your chrome browser developer tools console.
